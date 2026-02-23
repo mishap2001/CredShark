@@ -4,8 +4,6 @@
 
 This project was created **strictly for educational purposes in an isolated lab environment**.
 
-Its purpose is to analyze phishing infrastructure automation from a **defensive cybersecurity perspective** — not to deploy or conduct real-world attacks.
-
 ---
 
 ## 🎯 Purpose
